@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/fitness-goals-app/static/js/main.538addf8.js",
+    "main.js": "/fitness-goals-app/static/js/main.72e75cbf.js",
     "index.html": "/fitness-goals-app/index.html",
-    "main.538addf8.js.map": "/fitness-goals-app/static/js/main.538addf8.js.map"
+    "main.72e75cbf.js.map": "/fitness-goals-app/static/js/main.72e75cbf.js.map"
   },
   "entrypoints": [
-    "static/js/main.538addf8.js"
+    "static/js/main.72e75cbf.js"
   ]
 }
